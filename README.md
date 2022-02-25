@@ -10,10 +10,10 @@ socket编程学习路径
 
 --〉 Server socket <br>
 [Java Socket Client Examples (TCP/IP)](https://www.codejava.net/java-se/networking/java-socket-client-examples-tcp-ip) <br>
-[Java InetAddress类及其常用方法](http://c.biancheng.net/view/1194.html) <br>
+[Java Serversocket类](http://c.biancheng.net/view/1199.html) <br>
 
 --〉 Socket client <br>
  [Java Socket Server Examples (TCP/IP)](https://www.codejava.net/java-se/networking/java-socket-server-examples-tcp-ip) <br>
-[Java InetAddress类及其常用方法](http://c.biancheng.net/view/1194.html) <br>
+[Java Client socket](http://c.biancheng.net/view/1199.html) <br>
 multi-thread
 chatroom
